@@ -1,2 +1,3 @@
-# paper_notes
-cultivate the habit
+# Paper Presentation
+Cultivate the habit
+Go out of the comfort zone
